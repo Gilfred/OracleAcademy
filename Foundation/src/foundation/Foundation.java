@@ -23,6 +23,7 @@ public class Foundation {
         System.out.println("Hello, and welcome to my console application.\nThis is only a test to ensure things have been set up nicely\nWhat is your name?");
         name = userInput.nextLine();
         System.out.println("Hello " + name + "\nIt is a pleasure to meet you!");
+        System.out.println("With GitHub I now have a publicly available record of my programming.");
     }
     
 }
